@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fatima-portfolio/static/css/main.8dddc056.css",
+    "main.js": "/fatima-portfolio/static/js/main.5dc7f68f.js",
+    "static/js/453.ed3810f9.chunk.js": "/fatima-portfolio/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/fatima-portfolio/index.html",
+    "main.8dddc056.css.map": "/fatima-portfolio/static/css/main.8dddc056.css.map",
+    "main.5dc7f68f.js.map": "/fatima-portfolio/static/js/main.5dc7f68f.js.map",
+    "453.ed3810f9.chunk.js.map": "/fatima-portfolio/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dddc056.css",
+    "static/js/main.5dc7f68f.js"
+  ]
+}
