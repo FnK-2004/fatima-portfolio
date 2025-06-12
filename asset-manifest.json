@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/fatima-portfolio/static/css/main.15c37b35.css",
-    "main.js": "/fatima-portfolio/static/js/main.03170859.js",
+    "main.css": "/fatima-portfolio/static/css/main.4277c1b8.css",
+    "main.js": "/fatima-portfolio/static/js/main.3e57687a.js",
     "static/js/453.29ff7863.chunk.js": "/fatima-portfolio/static/js/453.29ff7863.chunk.js",
-    "static/media/logo.svg": "/fatima-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/fatima-portfolio/index.html",
-    "main.15c37b35.css.map": "/fatima-portfolio/static/css/main.15c37b35.css.map",
-    "main.03170859.js.map": "/fatima-portfolio/static/js/main.03170859.js.map",
+    "main.4277c1b8.css.map": "/fatima-portfolio/static/css/main.4277c1b8.css.map",
+    "main.3e57687a.js.map": "/fatima-portfolio/static/js/main.3e57687a.js.map",
     "453.29ff7863.chunk.js.map": "/fatima-portfolio/static/js/453.29ff7863.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.15c37b35.css",
-    "static/js/main.03170859.js"
+    "static/css/main.4277c1b8.css",
+    "static/js/main.3e57687a.js"
   ]
 }
