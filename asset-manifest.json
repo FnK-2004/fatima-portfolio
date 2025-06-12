@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fatima-portfolio/static/css/main.67f5930c.css",
-    "main.js": "/fatima-portfolio/static/js/main.cbd19993.js",
+    "main.css": "/fatima-portfolio/static/css/main.bdb6fbe7.css",
+    "main.js": "/fatima-portfolio/static/js/main.b9a95c05.js",
     "static/js/453.29ff7863.chunk.js": "/fatima-portfolio/static/js/453.29ff7863.chunk.js",
     "index.html": "/fatima-portfolio/index.html",
-    "main.67f5930c.css.map": "/fatima-portfolio/static/css/main.67f5930c.css.map",
-    "main.cbd19993.js.map": "/fatima-portfolio/static/js/main.cbd19993.js.map",
+    "main.bdb6fbe7.css.map": "/fatima-portfolio/static/css/main.bdb6fbe7.css.map",
+    "main.b9a95c05.js.map": "/fatima-portfolio/static/js/main.b9a95c05.js.map",
     "453.29ff7863.chunk.js.map": "/fatima-portfolio/static/js/453.29ff7863.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.67f5930c.css",
-    "static/js/main.cbd19993.js"
+    "static/css/main.bdb6fbe7.css",
+    "static/js/main.b9a95c05.js"
   ]
 }
